@@ -3,6 +3,19 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+impor {createStore} from 'redux';
+
+
+
+//STORE -> GLOBALIZED STATE
+
+//ACTION INCREMENT
+
+//REDUCER
+
+//DISPATCH
+
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
